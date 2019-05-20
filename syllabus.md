@@ -25,7 +25,7 @@
 :--- | :--- 
 **Course Number:** `IS550` | **Credit Hours:** 3 | 
 **Prerequisites:** `BA545` | **Course Duration**: May, 20th -  Jun., 25th|
-**Delivery Method:**  In class (**DSB 104**) and online ([Github](#)) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
+**Delivery Method:**  In class (**DSB 104**) and online ([Github](#)) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) or Zoom (links will be sent out via email prior to each class) |
 
 ### Course Description
 In this course, we will focus on __big data analytics__, from a balanced theoretical and practical perspective. We will start with the _scope_, _role_, and _principles_ of big data in today’s business context, followed by two important pillars in big data analytics, namely __Distributed Computing__ and __Deep Learning__. These two pillars represent the latest development in the business analytics/data science domain.
@@ -100,12 +100,11 @@ This class is graded based on a point system (with a total of __1,000__ points),
 ### Course Project
 There will be one (1) comprehensive and individual course project – which purpose is to assess your understanding of the topics and technologies discussed in this course. Note that the course project can be a part of your capstone project, if you are taking the capstone course in parallel - but you will need your faculty advisor for your capstone project to approve it.
 
-You have to select one (1) of two options below for your course project:
+You have to select following option for your course project:
 
-1. Practical/Analytical project: you will conduct a real-world like data analytics project – from business understanding to evaluation/deployment of your model. You need to embed at least one (1) topic/technology discussed in this course in your course project; or
-2. Theoretical/Research project: you will conduct a literature review/case study project – where you will need to intensively analyze research articles/real world cases using at least one (1) topic/technology dis-cussed in this course (some sample topics may include (but not limit to): deep learning/deep neural net-work; text mining/text analytics/topic modeling/sentiment analysis; computer vision/image processing. 
+1. Practical/Analytical project: you will conduct a real-world like data analytics project – from business understanding to evaluation/deployment of your model. You need to embed at least one (1) topic/technology discussed in this course in your course project.
 
-Despite which option you are selecting for the course project, there are several required deliverables in this course:
+With the course project, there are several required deliverables in this course:
 1.	__Project Proposal__: specifying the project scope, expected outcome, responsibilities, and a possible time line of the project – this is supposed to be delivered in the form of in-class presentations (100 points) – please note that the proposal needs to be approved by the instructor before moving on with your project;
 2.	__Progress Review/Milestone__: to be submitted in the pre-defined date (see Section 5 of this document for details) for the purpose of communicating progress and issues within the project (required, 0 points);
 3.	__Final Presentation__: entailing the progress and achievements in the project, reviewing methods/techniques used in the project, and communicate with the instructor/client – the presentation will be completed in class (100 points);
@@ -139,7 +138,7 @@ __Course Materials__: All the teaching materials, including assignments and exam
 
 __Late Submissions__: Grades become official one week after assignments/exams have been returned by the instructor. Late submissions will __NOT__ be graded.  No make-up opportunities would be given to final deliverables of both competitions/projects.
 
-_Email Communications and Feedbacks_: When sending an email to your instructor, please include in your email your section name or the time you are taking the class (i.e., using “IS550  + your name” in the subject line). Normally, I would reply to your email no longer than __24__ hours. I will not respond to emails sending from/to non-university emails. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. Special Note: Throughout this course, I will use my student email address (jtao@student.fairfield.edu) to share course files with you – however, ALL course related communications should be referred to my main email (jtao@fairfield.edu).
+__Email Communications and Feedbacks__: When sending an email to your instructor, please include in your email your section name or the time you are taking the class (i.e., using “IS550  + your name” in the subject line). Normally, I would reply to your email no longer than __24__ hours. I will not respond to emails sending from/to non-university emails. Allow more time during weekends and holidays. Feedbacks on your assignments/deliverables will generally be returned to your within a week after the due of the assignment. After receiving the feedback (and grade), you have __three (3)__ days to dispute a grade with proper justified reasons. Special Note: Throughout this course, I will use my student email address (jtao@student.fairfield.edu) to share course files with you – however, ALL course related communications should be referred to my main email (jtao@fairfield.edu).
 
 __Academic Honesty__: Fairfield University’s primary purpose is the pursuit of academic excellence. All members of the Fairfield University community share responsibility for establishing and maintaining appropriate standards of academic honesty and integrity. This is possible only in an atmosphere where discovery and communication of knowledge are marked by scrupulous, unqualified honesty. In the event of such dishonesty, professors are to award a grade of zero for the project, paper, or examination in question, and may record an F for the course itself.
 
@@ -154,4 +153,12 @@ The following course outline is tentative and subject to change when and where d
 | Date | Lecture | LO. | In Class Lab* | Student Work |
 :--- | :--- | :--- | :--- | :--- 
 | 5/21 | Course Orientation; Intro to Big Data Analytics; Big Data Analytics Lifecycle | 1, 2 | Setup Spark on Databricks; Python Review | Course Project Kick-off |
-| 5/28 | Big Data Analytics Framework: Intro to Spark | 3 | Spark Basics; Structured Streaming | |
+| 5/28 | __Big Data Analytics Framework__: Intro to Spark | 3 | Spark Basics; Structured Streaming | |
+| 6/1 | __Big Data Application__: Text Analytics/NLP | 5 | Text Analytics with Python | |
+| 6/4 | __Big Data Analytics Framework__: How Spark Works | 3 | Spark for Data Scientists | __Course Project Proposal Presentation__ |
+| 6/11 | __Business Analytics Developments__: Deep Learning part I | 4 | | Course Project Coaching Hours - TBA |
+| 6/15 | __Business Analytics Developments__: Deep Learning part II | 4 | Nvidia Computer Vision Labs part I | |
+| 6/18 | __Deep Learning Application on Computer Vision__ | 4 | Deep Learning Concepts | __Milestone Report Due__ |
+| 6/22 | Other Deep Learning Applications | 4, 5 | Nvidia Computer Vision Labs part II | Course Project Coaching Hours - TBA |
+| 6/25 | __Final Chapter__: (Big) Data Analytics Career Path | 1, 5 | | In-Class Final Presentation; __Final Report Due: 6/28__ |
+
