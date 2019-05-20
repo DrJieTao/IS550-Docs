@@ -154,11 +154,11 @@ The following course outline is tentative and subject to change when and where d
 :--- | :--- | :--- | :--- | :--- 
 | 5/21 | Course Orientation; Intro to Big Data Analytics; Big Data Analytics Lifecycle | 1, 2 | Setup Spark on Databricks; Python Review | Course Project Kick-off |
 | 5/28 | __Big Data Analytics Framework__: Intro to Spark | 3 | Spark Basics; Structured Streaming | |
-| 6/1 | __Big Data Application__: Text Analytics/NLP | 5 | Text Analytics with Python | |
+| 6/1 | __Big Data Application__: Text Analytics/NLP | 5 | Text Analytics with Python ** | |
 | 6/4 | __Big Data Analytics Framework__: How Spark Works | 3 | Spark for Data Scientists | __Course Project Proposal Presentation__ |
 | 6/11 | __Business Analytics Developments__: Deep Learning part I | 4 | | Course Project Coaching Hours - TBA |
-| 6/15 | __Business Analytics Developments__: Deep Learning part II | 4 | Nvidia Computer Vision Labs part I | |
+| 6/15 | __Business Analytics Developments__: Deep Learning part II | 4 | Nvidia Computer Vision Labs part I ** | |
 | 6/18 | __Deep Learning Application on Computer Vision__ | 4 | Deep Learning Concepts | __Milestone Report Due__ |
-| 6/22 | Other Deep Learning Applications | 4, 5 | Nvidia Computer Vision Labs part II | Course Project Coaching Hours - TBA |
+| 6/22 | Other Deep Learning Applications | 4, 5 | Nvidia Computer Vision Labs part II ** | Course Project Coaching Hours - TBA |
 | 6/25 | __Final Chapter__: (Big) Data Analytics Career Path | 1, 5 | | In-Class Final Presentation; __Final Report Due: 6/28__ |
 
