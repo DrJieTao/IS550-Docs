@@ -162,7 +162,7 @@ The following course outline is tentative and subject to change when and where d
 | 6/22 | Other Deep Learning Applications | 4, 5 | Nvidia Computer Vision Labs part II ** | Course Project Coaching Hours - TBA |
 | 6/25 | __Final Chapter__: (Big) Data Analytics Career Path | 1, 5 | | In-Class Final Presentation; __Final Report Due: 6/28__ |
 
-\*: Subsequent lab will be determined on the completion of previous lab(s).
+\*: _Subsequent lab will be determined on the completion of previous lab(s)._
 
-\*\*: Long Saturday labs.
+\*\*: _Long Saturday labs._
 
